@@ -8,3 +8,4 @@
 - Contaba con una bocina y un controlador de audio al que tambien se conectaba por Bluetooth y podia usarse para reproducir musica 
 - Contaba con 4 motores
 - Sistema de Luces delanteras y traseras
+<img src="foto.png" alt="autito" width="500">
